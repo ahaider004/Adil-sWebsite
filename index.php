@@ -66,38 +66,38 @@
   <!-- Photo Grid -->
   <div class="row">
     <div class="column">
-      <img src="gallary/work1.jpg" style="width:100%" alt = "work 1">
-      <img src="gallary/work2.jpg" style="width:100%" alt = "work 2">
-      <img src="gallary/work3.jpg" style="width:100%" alt = "work 3">
-      <img src="gallary/work4.jpg" style="width:100%" alt = "work 4">
-      <img src="gallary/work5.jpg" style="width:100%" alt = "work 5">
-      <img src="gallary/work6.jpg" style="width:100%" alt = "work 6">
-      <img src="gallary/work7.jpg" style="width:100%" alt = "work 7">
+      <img src="work1.jpg" style="width:100%" alt = "work 1">
+      <img src="work2.jpg" style="width:100%" alt = "work 2">
+      <img src="work3.jpg" style="width:100%" alt = "work 3">
+      <img src="work4.jpg" style="width:100%" alt = "work 4">
+      <img src="work5.jpg" style="width:100%" alt = "work 5">
+      <img src="work6.jpg" style="width:100%" alt = "work 6">
+      <img src="work7.jpg" style="width:100%" alt = "work 7">
     </div>
     <div class="column">
-      <img src="gallary/work8.jpg" style="width:100%" alt = "work 8">
-    <img src="gallary/work9.jpg" style="width:100%" alt = "work 9">
-    <img src="gallary/work10.jpg" style="width:100%" alt = "work 10">
-    <img src="gallary/work11.jpg" style="width:100%" alt = "work 11">
-    <img src="gallary/work12.jpg" style="width:100%" alt = "work 12">
-    <img src="gallary/work13.jpg" style="width:100%" alt = "work 13">
-    <img src="gallary/work23.jpg" style="width:100%" alt = "work 23">
+      <img src="work8.jpg" style="width:100%" alt = "work 8">
+    <img src="work9.jpg" style="width:100%" alt = "work 9">
+    <img src="work10.jpg" style="width:100%" alt = "work 10">
+    <img src="work11.jpg" style="width:100%" alt = "work 11">
+    <img src="work12.jpg" style="width:100%" alt = "work 12">
+    <img src="work13.jpg" style="width:100%" alt = "work 13">
+    <img src="work23.jpg" style="width:100%" alt = "work 23">
     </div>
     <div class="column">
       <img src="gallary/work14.jpg" style="width:100%" alt = "work 14">
-<img src="gallary/work15.jpg" style="width:100%" alt = "work 15">
-<img src="gallary/work16.jpg" style="width:100%" alt = "work 16">
-<img src="gallary/work17.jpg" style="width:100%" alt = "work 17">
-<img src="gallary/work18.jpg" style="width:100%" alt = "work 18">
-<img src="gallary/work19.jpg" style="width:100%" alt = "work 19">
+<img src="work15.jpg" style="width:100%" alt = "work 15">
+<img src="work16.jpg" style="width:100%" alt = "work 16">
+<img src="work17.jpg" style="width:100%" alt = "work 17">
+<img src="work18.jpg" style="width:100%" alt = "work 18">
+<img src="work19.jpg" style="width:100%" alt = "work 19">
     </div>
     <div class="column">
-      <img src="gallary/work21.jpg" style="width:100%" alt = "work 21">
- <img src="gallary/work22.jpg" style="width:100%" alt = "work 22">
- <img src="gallary/work24.jpg" style="width:100%" alt = "work 24">
- <img src="gallary/work26.jpg" style="width:100%" alt = "work 26">
- <img src="gallary/work25.png" style="width:100%" alt = "work 25">
- <img src="gallary/work20.jpg" style="width:100%" alt = "work 20">
+      <img src="work21.jpg" style="width:100%" alt = "work 21">
+ <img src="work22.jpg" style="width:100%" alt = "work 22">
+ <img src="work24.jpg" style="width:100%" alt = "work 24">
+ <img src="work26.jpg" style="width:100%" alt = "work 26">
+ <img src="work25.png" style="width:100%" alt = "work 25">
+ <img src="work20.jpg" style="width:100%" alt = "work 20">
     </div>
   </div>
 
